@@ -1,4 +1,4 @@
-# Tech_A_Inten
+# Tech_A_Intern
 tech_a_intern projects
 
 Task 1: Chatbot -> https://github.com/trinexometry/TrienGPT.git
