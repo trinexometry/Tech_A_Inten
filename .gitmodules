@@ -1,0 +1,6 @@
+[submodule "digitrecognition"]
+	path = digitrecognition
+	url = https://github.com/trinexometry/digitrecognition.git
+[submodule "TrienGPT"]
+	path = TrienGPT
+	url = https://github.com/trinexometry/TrienGPT.git
